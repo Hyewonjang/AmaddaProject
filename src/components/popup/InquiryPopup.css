@@ -1,0 +1,8 @@
+#inquiry_Popup{
+    width: 80%;
+    margin: auto;
+    z-index: 10000000000;
+    position: fixed;
+    top:7%;
+    left: 10%;
+  }

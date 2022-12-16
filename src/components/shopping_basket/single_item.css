@@ -1,0 +1,45 @@
+.single-item{
+    border: 1px solid gray;
+    margin: 10px 0px;
+    border-radius: 10px;
+
+    font-family: "Manrope", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #888;
+    overflow-x: hidden;
+    font-size: 14px;
+}
+
+
+.plus_button{
+    display:inline; 
+    background-color: whitesmoke; 
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right:0px;
+    border-left:1px solid gray; 
+    padding: 0px 6px; 
+    margin: 0px;
+  }
+  
+  .minus_button{
+    display:inline; 
+    background-color: whitesmoke; 
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left:0px;
+    border-right:1px solid gray; 
+    padding: 0px 6px; 
+    margin: 0px;
+  }
+  
+  .single_total_price{
+    background-color: rgb(232, 232, 232); 
+    padding : 5px 15px; 
+    border-radius: 7px; 
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+  
+

@@ -1,0 +1,51 @@
+.use-coupon{
+    background-color: rgb(240, 88, 32); 
+    color:white;
+    border: none; 
+    padding: 2px 4px; 
+    border-radius: 5px; 
+    margin-top: 5px; 
+    font-size: 12px;
+  }
+  
+  .use-coupon:hover{
+    background-color: black;
+  }
+  
+  #select_coupon{
+    position: fixed;
+    top : 100px;
+    left : 120px;
+    background-color: white;
+    border:1px solid gray;
+    border-radius: 5px;
+    padding: 15px;
+    z-index: 1000000;
+  }
+  
+  .coupon-items{
+    padding:0px 10px;
+    padding-top: 10px;
+    background-color: rgb(232, 232, 232);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .coupon-item{
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+  
+  .coupon-button{
+    padding: 5px 10px;
+    background-color: rgb(240, 88, 32);
+    color : white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    float:right;
+  }
+  
+  .coupon-button:hover{
+    background-color: black;
+  }

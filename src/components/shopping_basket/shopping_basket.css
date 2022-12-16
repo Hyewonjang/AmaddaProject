@@ -1,0 +1,46 @@
+.basket-header{
+    border-bottom: 2px solid gray;
+    border-top:2px solid gray; 
+    padding: 10px 0px; 
+    margin-bottom: 10px; 
+    text-align: center; 
+    font-weight: bold;
+  }
+
+.shopping-basket .top-area{
+    background-color: #fff;
+    padding: 30px;
+    padding-bottom: 20px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+  }
+  
+  .shopping-basket-total-price .single-block{
+    background-color: rgb(232, 232, 232);
+    padding: 30px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    margin: 20px 0px;
+  }
+  
+  .order_btn_Link{
+    width:60%;
+    padding: 10px 20px;
+    background-color: rgb(240, 88, 32);
+    color : white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+    float:right;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    text-decoration-line: none;
+  }
+  
+  .order_btn_Link:hover{
+    background-color: black;
+    color:white;
+  }
+
