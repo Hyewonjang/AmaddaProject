@@ -1,0 +1,19 @@
+.my-page-nav{
+  margin-top: 20px;
+  display: flex;
+  justify-content: left;
+}
+
+.my-page-nav .my-page-nav-item{
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.my-page-nav-link{
+  text-decoration: none;
+}
+
+.my-page-nav-item .my-page-nav-link:active{
+  color: coral;
+  font-weight: 700;
+}

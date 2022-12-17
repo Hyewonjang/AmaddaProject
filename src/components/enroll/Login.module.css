@@ -1,0 +1,52 @@
+input{
+  width: 300px;
+}
+
+input.info, p{
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+
+input.submit{
+  margin-left: 20px;
+  padding: 0 20px 0 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid rgb(240, 88, 32);
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.7s;
+  color: rgb(240, 88, 32);
+}
+
+input.submit:hover{
+  margin-left: 20px;
+  padding: 0 20px 0 20px;
+  border-radius: 8px;
+  background-color: rgb(240, 88, 32);
+  border: 1px solid #fff;
+  color: #fff;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.7s;
+}
+
+input.submit:not(:hover){
+  margin-left: 20px;
+  padding: 0 20px 0 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid rgb(240, 88, 32);
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.7s;
+  color: rgb(240, 88, 32);
+}
+
+*{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+/* bdb0f9 */
+
+.errorText{
+  color: rgb(240, 88, 32);
+  font-size: 60%;
+  text-align: center;
+}

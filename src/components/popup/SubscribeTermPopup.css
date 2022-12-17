@@ -1,0 +1,18 @@
+#subscribe-term{
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    z-index: 10000000000;
+    position: fixed;
+    top:15%;
+    left: 50%;
+    border: 1px solid lightgray;
+    border-radius:5px;
+
+    font-family: "Manrope", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #888;
+    overflow-x: hidden;
+    font-size: 14px;
+  }
